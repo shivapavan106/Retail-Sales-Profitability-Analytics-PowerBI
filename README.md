@@ -177,7 +177,7 @@ The Sales Overview page analyzes overall sales performance.
 - Sales by Product Category
 - Average Order Value by Region
 
-![Sales Overview](sales-overview.png)
+<img width="961" height="543" alt="Sales Overview" src="https://github.com/user-attachments/assets/72ffe2d0-362e-41b2-af26-4035547797f7" />
 
 ---
 
