@@ -199,7 +199,8 @@ The Profitability Analysis page focuses on profit performance.
 - Profit by Customer Segment
 - Profit vs Sales by Region
 
-![Profitability Analysis](profitability-analysis.png)
+<img width="960" height="537" alt="Profitability Analysis" src="https://github.com/user-attachments/assets/b30596be-d98d-4ea8-8924-c4b0c49c1a51" />
+
 
 ---
 
@@ -222,7 +223,8 @@ This page compares actual sales performance with business targets.
 - Target Achievement % by Month
 - Target by Region
 
-![Target vs Actual](target-vs-actual.png)
+<img width="972" height="532" alt="Target Actual Performance" src="https://github.com/user-attachments/assets/ef1f1262-b667-4854-8335-012694a591a4" />
+
 
 
 # 🔄 Project Workflow
